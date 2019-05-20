@@ -1,5 +1,7 @@
+/data/access_log
 /data/access_log.gz  
 /data/purchases.txt
+*~
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
