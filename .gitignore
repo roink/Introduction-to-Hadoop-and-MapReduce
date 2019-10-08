@@ -1,6 +1,10 @@
 /data/access_log
 /data/access_log.gz  
 /data/purchases.txt
+/data/data.tar.xz
+/data/forum_node.tsv
+/data/forum_users.tsv
+
 *~
 # Byte-compiled / optimized / DLL files
 __pycache__/
