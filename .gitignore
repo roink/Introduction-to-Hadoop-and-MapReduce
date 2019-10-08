@@ -4,6 +4,8 @@
 /data/data.tar.xz
 /data/forum_node.tsv
 /data/forum_users.tsv
+/data/forum_data.tar.gz
+
 
 *~
 # Byte-compiled / optimized / DLL files
